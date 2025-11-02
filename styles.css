@@ -91,6 +91,8 @@ footer h3 {
 
     #current-page {
         font-size: 20px;
+        text-decoration: underline 4px #00154c !important;
+        color: #2a5feb;
     }
 }
 
@@ -174,3 +176,4 @@ footer h3 {
 .ohlas h3 {
     margin: 0;
 }
+
